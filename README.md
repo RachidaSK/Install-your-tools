@@ -62,6 +62,10 @@ sudo xcode-select --install
 
 **Step 2**. Paste the script into your Terminal window. Press Enter.
 
+## Postman
+
+Navigate to the [Postman download](https://www.postman.com/downloads/) and follow instructions.
+
 ## SSH Keys
 
 To complete these steps, you will need to sign up for a [GitHub](https://github.com/) account if you haven't already, then follow the [instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) to connect to Github SSH.
